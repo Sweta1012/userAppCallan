@@ -1,0 +1,19 @@
+.viewUser {
+    width: 50%;
+    height: 50%;
+    background-color: azure;
+    color: rgb(33, 110, 84);
+    font-weight: bold;
+  }
+
+  .viewUser:hover {
+  
+    background-color: rgb(152, 211, 152);
+    color: rgb(17, 70, 52);
+    font-weight: bold;
+  }
+
+  .names {
+    color: green;
+    font-size: 20px;
+  }
