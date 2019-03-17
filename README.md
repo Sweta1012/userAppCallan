@@ -4,7 +4,7 @@ The goal of this development test is to show us that you have a grasp of how to 
 
 # Getting Started
 
-The code files are provided without any of the dependencies installed, so you will need to run npm install in both the `api` folder and the `front-end` folder. Please delete your node_modules folders before sending your code back to us.
+The code files are provided without any of the dependencies installed, so you will need to run npm install in both the `api` folder and the `front-end` folder.
 
 # Requirements
 
@@ -17,8 +17,3 @@ Build an interface in react that has the following screens:
   - average user age
   - median user age
   - top 5 most common first names
-
-# Notes
-
-This test is meant to be open ended, so you are free to design the interface and the api endpoints however you see fit to meet the requirements listed above. The look and feel aren't all that important, so we'd advise just focusing on the functionality.  
-Please delete your node_modules folder before sending your code back to us.
